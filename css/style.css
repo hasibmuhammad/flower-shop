@@ -242,7 +242,8 @@ main {
   line-height: 30px;
   padding-bottom: 32px;
 }
-.copyright {
+.copyright,
+.copyright a {
   color: rgba(255, 255, 255, 0.4);
   font-size: 13px;
   font-style: normal;
